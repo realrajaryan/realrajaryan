@@ -1,6 +1,6 @@
 <div align='center'>
   
-<h1 align="center">👨‍💻 Hi, I'm Raj</h1>
+<h1 align="center">👨‍💻 Hi, I'm Raj!</h1>
 <h3 align="center">A Computer Science and Data Science student at UW-Madison</h3>
   
 <hr width="50%" style="height:5px;">
